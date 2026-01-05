@@ -21,3 +21,12 @@
 ## Eventos (Kafka)
 - BudgetReserved
 - BudgetReleased
+
+## Stack
+- Java 17
+- Spring Boot 3.2
+
+## Como rodar (dev)
+```bash
+mvn spring-boot:run
+```

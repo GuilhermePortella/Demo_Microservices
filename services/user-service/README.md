@@ -22,3 +22,12 @@
 ## Eventos (Kafka)
 - UserUpdated
 - RoleUpdated
+
+## Stack
+- Java 17
+- Spring Boot 3.2
+
+## Como rodar (dev)
+```bash
+mvn spring-boot:run
+```
